@@ -14,6 +14,6 @@
 ![3 foto](https://user-images.githubusercontent.com/76706592/204622087-aaeb9599-0fb0-4d73-a23c-cacd70de263b.PNG)
 ***
 ## Oyunun Eksikleri Ve Hataları
-### Malesef oyunun en başında açılan durdurma menüsünü ESC tuşuyla kapatabilecek olma-
+### Maalesef oyunun en başında açılan durdurma menüsünü ESC tuşuyla kapatabilecek olma-
 ### nıza ve orada bulunan yeniden başlat butonun çalışmasına rağmen oyun esnasında
 ### tekrar ESC tuşuna bastığınızda durdurma menüsü açılmayacaktır.
