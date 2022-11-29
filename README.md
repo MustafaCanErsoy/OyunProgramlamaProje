@@ -6,7 +6,7 @@
 #### çarpılırsa kaybetmiş olunur.
 ***
 ## Oyunun Oynabileceği platformun linki :
-####
+#### https://space-x.itch.io/spacex
 ***
 ## Oyunumuzdan Görseller 
 ![1 foto](https://user-images.githubusercontent.com/76706592/204622046-73734bd6-967d-4291-983e-65b49fc8fede.PNG)
