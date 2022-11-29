@@ -5,7 +5,7 @@
 #### lemi başarıyla yapılırsa oyun kazanılmış olur eğer ki ortadaki engele ve ya yere 
 #### çarpılırsa kaybetmiş olunur.
 ***
-## Oyunun Oynnaabileceği platformun linki :
+## Oyunun Oynanabileceği platformun linki :
 #### https://space-x.itch.io/spacex
 ***
 ## Oyunumuzdan Görseller 
