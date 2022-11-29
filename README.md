@@ -6,7 +6,7 @@
 #### çarpılırsa kaybetmiş olunur.
 ***
 ## Oyunun Oynabileceği platformun linki :
-###
+####
 ***
 ## Oyunumuzdan Görseller 
 ![1 foto](https://user-images.githubusercontent.com/76706592/204622046-73734bd6-967d-4291-983e-65b49fc8fede.PNG)
@@ -14,9 +14,9 @@
 ![3 foto](https://user-images.githubusercontent.com/76706592/204622087-aaeb9599-0fb0-4d73-a23c-cacd70de263b.PNG)
 ***
 ## Oyunun Eksikleri Ve Hataları
-### Oyunun en başında açılan durdurma menüsünü ESC tuşuyla kapatabilecek olma-
-### nıza ve orada bulunan yeniden başlat butonun çalışmasına rağmen oyun esnasında
-### tekrar ESC tuşuna bastığınızda durdurma menüsü açılmayacaktır.
+#### Oyunun en başında açılan durdurma menüsünü ESC tuşuyla kapatabilecek olma-
+#### nıza ve orada bulunan yeniden başlat butonun çalışmasına rağmen oyun esnasında
+#### tekrar ESC tuşuna bastığınızda durdurma menüsü açılmayacaktır.
 
 ## Oyunun Yapımında İş Bölümü
 #### Beraber buluşarak tek bir bilgisayar üzerinden yapıldığı için bir iş bölümü
